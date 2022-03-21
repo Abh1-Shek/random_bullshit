@@ -7,3 +7,10 @@ adding more bullshit
 
 
 # another headline
+
+
+
+
+## Local devlopments
+
+1. Open index.html in your browser
